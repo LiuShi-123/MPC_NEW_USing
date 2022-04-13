@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/ls/Project/CPlus/MPCNEW/build",
+  "command": "/usr/bin/c++   -I/home/ls/Project/CPlus/MPCNEW/./include -I/usr/local/include/yaml-cpp -isystem /usr/local/include/osqp -isystem /usr/local/include/eigen3    -o CMakeFiles/MPCNEW.dir/main.cpp.o -c /home/ls/Project/CPlus/MPCNEW/main.cpp",
+  "file": "/home/ls/Project/CPlus/MPCNEW/main.cpp"
+},
+{
+  "directory": "/home/ls/Project/CPlus/MPCNEW/build",
+  "command": "/usr/bin/c++   -I/home/ls/Project/CPlus/MPCNEW/./include -I/usr/local/include/yaml-cpp -isystem /usr/local/include/osqp -isystem /usr/local/include/eigen3    -o CMakeFiles/MPCNEW.dir/src/CarModule.cpp.o -c /home/ls/Project/CPlus/MPCNEW/src/CarModule.cpp",
+  "file": "/home/ls/Project/CPlus/MPCNEW/src/CarModule.cpp"
+},
+{
+  "directory": "/home/ls/Project/CPlus/MPCNEW/build",
+  "command": "/usr/bin/c++   -I/home/ls/Project/CPlus/MPCNEW/./include -I/usr/local/include/yaml-cpp -isystem /usr/local/include/osqp -isystem /usr/local/include/eigen3    -o CMakeFiles/MPCNEW.dir/src/MPCPlan.cpp.o -c /home/ls/Project/CPlus/MPCNEW/src/MPCPlan.cpp",
+  "file": "/home/ls/Project/CPlus/MPCNEW/src/MPCPlan.cpp"
+},
+{
+  "directory": "/home/ls/Project/CPlus/MPCNEW/build",
+  "command": "/usr/bin/c++   -I/home/ls/Project/CPlus/MPCNEW/./include -I/usr/local/include/yaml-cpp -isystem /usr/local/include/osqp -isystem /usr/local/include/eigen3    -o CMakeFiles/MPCNEW.dir/src/RefWay.cpp.o -c /home/ls/Project/CPlus/MPCNEW/src/RefWay.cpp",
+  "file": "/home/ls/Project/CPlus/MPCNEW/src/RefWay.cpp"
+}
+]

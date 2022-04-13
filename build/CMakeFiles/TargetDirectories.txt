@@ -1,0 +1,3 @@
+/home/ls/Project/CPlus/mpc/build/CMakeFiles/rebuild_cache.dir
+/home/ls/Project/CPlus/mpc/build/CMakeFiles/edit_cache.dir
+/home/ls/Project/CPlus/mpc/build/CMakeFiles/MPCNEW.dir
